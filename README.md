@@ -7,7 +7,7 @@ Our CS 362 Project by Oliver H and Brook H
 
 used with the Android RC app downloaded from the Google Play Store
 
-<img src="androidRC.jpg" width="50%">
+<img src="AndroidRC.jpg" width="50%">
 
 ###Components
 
